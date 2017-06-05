@@ -1,5 +1,3 @@
-# howPubPriKeyWork
-how Pub Pri Key Work
 #!/usr/bin/env python
 
 # how pub priv key encryption works 
