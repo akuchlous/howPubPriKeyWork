@@ -33,3 +33,4 @@ for  x in range (privateKey):
 print ("decoded value = %s", encoded )
 ############################################################################
 # BUT STILL SHARING  "max" ???
+# max is a big big number that can be easily shared !
